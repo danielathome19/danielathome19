@@ -3,7 +3,7 @@ I teach computer science and choir currently at the high school-level (along wit
 My education:
 * **Ph.D. Artificial Intelligence - Capitol Technology University (2022-Present)**
 * **M.S. Computer Science - UW-Whitewater (2020-2022)**
-* **B.M. Music Education: Choral Emphasis and Computer Science, Web Dev. & Administration - UW-Whitewater (2017-2021)**
+* **B.M. Music Education: Choral Emphasis and Computer Science, Web Dev. & Admin. - UW-Whitewater (2017-2021)**
 * **A.A.S. General Studies - UW-Milwaukee (2021)**
 
 Find out more about me [on my homepage](http://danielszelogowski.com/) or [LinkedIn](https://www.linkedin.com/in/danielszelogowski/)!
