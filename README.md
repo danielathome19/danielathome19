@@ -1,5 +1,12 @@
-### Hi there 👋
+I teach computer science and choir currently at the high school-level (along with some online college-level online classes) and conduct research primarily in the fields of music, signal procesing, machine learning/deep learning, education, and theoretical computer science.
 
+My education:
+* **Ph.D. Artificial Intelligence - Capitol Technology University (2022-Present)**
+* **M.S. Computer Science - UW-Whitewater (2020-2022)**
+* **B.M. Music Education: Choral Emphasis and Computer Science, Web Dev. & Administration - UW-Whitewater (2017-2021)**
+* **A.A.S. General Studies - UW-Milwaukee (2021)**
+
+Find out mroe about me [here](http://danielszelogowski.com/)!
 <!--
 **danielathome19/danielathome19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
