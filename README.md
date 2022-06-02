@@ -6,7 +6,8 @@ My education:
 * **B.M. Music Education: Choral Emphasis and Computer Science, Web Dev. & Administration - UW-Whitewater (2017-2021)**
 * **A.A.S. General Studies - UW-Milwaukee (2021)**
 
-Find out more about me [on my homepage](http://danielszelogowski.com/) or [LinkedIn](https://www.linkedin.com/in/danielszelogowski/)!
+Find out more about me on [my homepage](http://danielszelogowski.com/) or [LinkedIn](https://www.linkedin.com/in/danielszelogowski/)!
+Also, check out my research on [ORCID](https://orcid.org/0000-0002-0350-5771) or [ResearchGate](https://www.researchgate.net/profile/Daniel-Szelogowski)
 <!--
 **danielathome19/danielathome19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
