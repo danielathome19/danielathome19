@@ -10,13 +10,12 @@ My education:
 Find out more about me on [my homepage](http://danielszelogowski.com/) or [LinkedIn](https://www.linkedin.com/in/danielszelogowski/)!
 <br/>Also, check out my research on [ORCID](https://orcid.org/0000-0002-0350-5771) or [ResearchGate](https://www.researchgate.net/profile/Daniel-Szelogowski)!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true" />
+<a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
+  <img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact" />
+<a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
+  <img id="gitlang" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact" />
 </a>
-
 
 <!--
 **danielathome19/danielathome19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
