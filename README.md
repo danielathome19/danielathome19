@@ -22,7 +22,7 @@ Find out more about me on [my homepage](http://danielszelogowski.com/) or [Linke
       srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true)"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true" />
+    <img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true" />
   </picture>
 
 </a>
