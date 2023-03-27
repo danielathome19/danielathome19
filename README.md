@@ -37,7 +37,7 @@ Find out more about me on [my homepage](http://danielszelogowski.com/) or [Linke
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact" />
+    <img id="gitlang" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact" />
   </picture>
 </a>
 
