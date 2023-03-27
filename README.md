@@ -15,14 +15,14 @@ Find out more about me on [my homepage](http://danielszelogowski.com/) or [Linke
 
   <picture>
     <source 
-      srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true)&theme=dark"
+      srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&theme=dark#gh-dark-mode-only)"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true)"
+      srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true#gh-light-mode-only)"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true" />
+    <img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true#gh-light-mode-only" />
   </picture>
 
 </a>
