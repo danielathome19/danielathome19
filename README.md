@@ -1,7 +1,7 @@
 I teach computer science and choir currently at the high school level (along with some online college-level classes) and conduct research primarily in the fields of music, signal processing, machine learning/deep learning, education, and theoretical computer science.
 
 My education:
-* **Ph.D. Artificial Intelligence - Capitol Technology University (2022-Present [Ex. 2024])**
+* **Ph.D. Artificial Intelligence - Capitol Technology University (2022-Present [Ex. April 27, 2024])**
 * **M.S. Computer Science - UW-Whitewater (2020-2022)**
 * **G.C. Applied Bioinformatics - UW-Green Bay (2022-2023)**
 * **B.M. Music Education: Choral Emphasis and Computer Science, Web Dev. & Administration - UW-Whitewater (2017-2021)**
