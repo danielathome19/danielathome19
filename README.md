@@ -15,14 +15,14 @@ Find out more about me on [my homepage](http://danielszelogowski.com/) or [Linke
 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&theme=dark&custom_title=GitHub%20Stats"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&custom_title=GitHub%20Stats"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true" />
+    <img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&custom_title=GitHub%20Stats" />
   </picture>
 
 </a>
@@ -72,14 +72,14 @@ Find out more about me on [my homepage](http://danielszelogowski.com/) or [Linke
 <a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
   <picture>
     <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19&theme=github-compact&bg_color=151515&color=FFFFFF"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19&theme=github-compact&bg_color=151515&color=FFFFFF&area=true&custom_title=Contribution%20Graph"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19&theme=github-compact&color=2F80ED&area=true&custom_title=Contribution%20Graph"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img id="gitlang" style="margin: 10px; max-width: 100%;" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19" />
+    <img id="gitlang" style="margin: 10px; max-width: 100%;" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19&theme=github-compact&color=2F80ED&area=true&custom_title=Contribution%20Graph" />
   </picture>
 </a>
 
