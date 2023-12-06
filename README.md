@@ -40,6 +40,50 @@ Find out more about me on [my homepage](http://danielszelogowski.com/) or [Linke
     <img id="gitlang" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact" />
   </picture>
 </a>
+<!--<a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielathome19&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielathome19&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img id="gitlang" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielathome19&layout=compact" />
+  </picture>
+</a>
+<br/><br/>
+<a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
+  <picture>
+      <source 
+        srcset="https://github-profile-trophy.vercel.app/?username=danielathome19&row=2&column=-1&theme=alduin"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=danielathome19&row=2&column=-1&no-bg=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img id="gitlang" style="margin: 10px; max-width: 95%;" align="center" src="https://github-profile-trophy.vercel.app/?username=danielathome19&row=2&column=-1&no-bg=true" />
+    </picture>
+</a>-->
+
+<br/><br/>
+<a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19&theme=github-compact&bg_color=151515&color=FFFFFF"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img id="gitlang" style="margin: 10px; max-width: 100%;" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19" />
+  </picture>
+</a>
+
+
 
 <!--
 **danielathome19/danielathome19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
