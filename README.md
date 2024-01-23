@@ -13,7 +13,7 @@ Find out more about me on [my homepage](http://danielszelogowski.com/) or [Linke
 <br/>Also, check out my research on [ORCID](https://orcid.org/0000-0002-0350-5771) or [ResearchGate](https://www.researchgate.net/profile/Daniel-Szelogowski)!
 
 ## Skills and Technologies
-Here are all the various tools I have used in my personal work.
+Here are all the various tools I have used in my personal work over the last 15+ years.
 
 ### Software Suites
 * Adobe CC
@@ -35,10 +35,10 @@ Here are all the various tools I have used in my personal work.
 * **Scientific Computing**: R, Julia, Jupyter, MATLAB/Octave, Fortran, GAMS, Nextflow, SageMaker, WandB, Watson Studio, SPSS
 * **.NET**: C#, F#, Visual basic, Q#, ML.NET, LINQ
 * **General Purpose**: Java, Scala, Kotlin, Go, Rust, D, Common Lisp/Racket/Hy, Groovy, Clojure, Swift, Dart, V, Vala
-* **Low-Level**: C, C++, Assembly (x86/64, MIPS, NASM, FASM), Verilog/VHDL
-* **Database and Query Systems**: MySQL/MariaDB, PostgreSQL, Redis, MongoDB, JSON, GraphQL
+* **Low-Level**: C, C++, Arduino, Assembly (x86/64, MIPS, NASM, FASM), Verilog/VHDL
+* **Database and Query Systems**: MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Firebase, JSON, GraphQL
 * **Game Development**: Godot/GDScript, Game Maker/GML, Unity, OpenGL/GLSL, SDL/PyGame, Processing, SuperCollider, ChucK
-* **Web Development**: JavaScript/jQuery/AJAX, TypeScript, PHP/Laravel, ASP.NET/Blazor, WASM, Flask/Django/FastAPI, Apache, Nginx, Angular, React, WordPress
+* **Web Development**: JavaScript/jQuery/AJAX, TypeScript, Node, CoffeeScript, PHP/Laravel, ASP.NET/Blazor, WASM, Ruby on Rails, Flask/Django/FastAPI, Apache, Nginx, Angular, React, WordPress
 * **App Development**: Xamarin, MAUI, Flutter, Flet
 * **Software Engineering/DevOps**: Linux, Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Selenium, Jira, AWS, Google Cloud, Slack, Trello, DigitalOcean, Azure, Gradle, Maven
 
