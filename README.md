@@ -19,9 +19,8 @@ Here are all the various tools I have used in my personal work.
 * Adobe CC
 * Microsoft Office (including Power BI)
 * JetBrains
-* Visual Studio
+* Visual Studio/VS Code
 * Figma
-* SPSS
 
 ### Markup/Design Languages
 * LaTeX
@@ -29,17 +28,19 @@ Here are all the various tools I have used in my personal work.
 * HTML/XML/XAML
 * CSS/SCSS/Bootstrap/Tailwind
 * UML
+* YAML
 
 ### Programming Languages and Systems
 * **Prototyping**: Python, Lua, Ruby, Bash, PowerShell/Batch, Elixir, Perl/Raku, OCaml, Nim, Crystal, Zig, Haxe, Boo, Tcl, Wren, Mojo
-* **Scientific Computing**: R, Julia, Jupyter, MATLAB/Octave, Fortran, GAMS, Nextflow
+* **Scientific Computing**: R, Julia, Jupyter, MATLAB/Octave, Fortran, GAMS, Nextflow, SageMaker, WandB, Watson Studio, SPSS
 * **.NET**: C#, F#, Visual basic, Q#, ML.NET, LINQ
 * **General Purpose**: Java, Scala, Kotlin, Go, Rust, D, Common Lisp/Racket/Hy, Groovy, Clojure, Swift, Dart, V, Vala
-* **Low-Level**: C, C++, Assembly (x86/64, MIPS, NASM, FASM), Verilog
+* **Low-Level**: C, C++, Assembly (x86/64, MIPS, NASM, FASM), Verilog/VHDL
 * **Database and Query Systems**: MySQL/MariaDB, PostgreSQL, Redis, MongoDB, JSON, GraphQL
 * **Game Development**: Godot/GDScript, Game Maker/GML, Unity, OpenGL/GLSL, SDL/PyGame, Processing, SuperCollider, ChucK
 * **Web Development**: JavaScript/jQuery/AJAX, TypeScript, PHP/Laravel, ASP.NET/Blazor, WASM, Flask/Django/FastAPI, Apache, Nginx, Angular, React, WordPress
 * **App Development**: Xamarin, MAUI, Flutter, Flet
+* **DevOps**: Linux, Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Selenium, Jira, AWS, Google Cloud, Slack, Trello, DigitalOcean, Azure, Gradle, Maven
 
 I've also contributed to the new [Carbon programming language](https://github.com/carbon-language/carbon-lang/commits?author=danielathome19)!
 
