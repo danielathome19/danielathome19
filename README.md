@@ -40,7 +40,7 @@ Here are all the various tools I have used in my personal work.
 * **Game Development**: Godot/GDScript, Game Maker/GML, Unity, OpenGL/GLSL, SDL/PyGame, Processing, SuperCollider, ChucK
 * **Web Development**: JavaScript/jQuery/AJAX, TypeScript, PHP/Laravel, ASP.NET/Blazor, WASM, Flask/Django/FastAPI, Apache, Nginx, Angular, React, WordPress
 * **App Development**: Xamarin, MAUI, Flutter, Flet
-* **DevOps**: Linux, Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Selenium, Jira, AWS, Google Cloud, Slack, Trello, DigitalOcean, Azure, Gradle, Maven
+* **DevOps/Software Engineering**: Linux, Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Selenium, Jira, AWS, Google Cloud, Slack, Trello, DigitalOcean, Azure, Gradle, Maven
 
 I've also contributed to the new [Carbon programming language](https://github.com/carbon-language/carbon-lang/commits?author=danielathome19)!
 
