@@ -13,24 +13,10 @@ Find out more about me on [my homepage](http://danielszelogowski.com/) or [Linke
 <br/>Also, check out my research on [ORCID](https://orcid.org/0000-0002-0350-5771) or [ResearchGate](https://www.researchgate.net/profile/Daniel-Szelogowski)!
 
 ## Skills and Technologies
-Here are all the various tools I have used in my personal work over the last 15+ years.
+Here are all the various tools and programming languages I have used in my personal work over the last 15+ years.
 
-### Software Suites
-* Adobe CC
-* Microsoft Office (including Power BI)
-* JetBrains
-* Visual Studio/VS Code
-* Figma
-
-### Markup/Design Languages
-* LaTeX
-* Markdown, R Markdown
-* HTML/XML/XAML
-* CSS/SCSS/Bootstrap/Tailwind
-* UML
-* YAML
-
-### Programming Languages and Systems
+* **Software Suites**: Adobe CC, Microsoft Office (including Power BI), JetBrains, Visual Studio/VS Code
+* **Markup/Design**: LaTeX, Markdown/R Markdown, HTML/XML/XAML, CSS/SCSS/Bootstrap/Tailwind, UML, YAML, Figma
 * **Prototyping**: Python, Lua, Ruby, Bash, PowerShell/Batch, Elixir, Perl/Raku, OCaml, Nim, Crystal, Zig, Haxe, Boo, Tcl, Wren, Mojo
 * **Scientific Computing**: R, Julia, Jupyter, MATLAB/Octave, Fortran, GAMS, Nextflow, SageMaker, WandB, Watson Studio, SPSS
 * **.NET**: C#, F#, Visual basic, Q#, ML.NET, LINQ
