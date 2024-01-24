@@ -19,12 +19,12 @@ Here are all the various tools and programming languages I have used in my perso
 * **Markup/Design**: LaTeX, Markdown/R Markdown, HTML/XML/XAML, CSS/SCSS/Bootstrap/Tailwind, UML, YAML, Figma
 * **Prototyping**: Python, Lua, Ruby, Bash, PowerShell/Batch, Elixir, Perl/Raku, OCaml, Nim, Crystal, Zig, Haxe, Boo, Tcl, Wren, Mojo
 * **Scientific Computing**: R, Julia, Jupyter, MATLAB/Octave, Fortran, GAMS, Nextflow, Watson Studio, SPSS, SageMaker, Zeppelin, WandB, Deepnote
-* **.NET**: C#, F#, Visual basic, Q#, ML.NET, LINQ
+* **.NET**: C#, F#, Visual basic, Q#, ML.NET, LINQ, WFA/WFP/Blend
 * **General Purpose**: Java, Scala, Kotlin, Go, Rust, D, Common Lisp/Racket/Hy, Groovy, Clojure, Swift, Dart, V, Vala
 * **Low-Level**: C, C++, Arduino, Assembly (x86/64, MIPS, NASM, FASM), Verilog/VHDL
 * **Database and Query Systems**: MySQL/MariaDB, PostgreSQL, Redis, MongoDB, SQLite, Neo4j, Firebase, Spark, Hadoop, Cassandra, JSON, REST/Postman/Insomnia, GraphQL
 * **Game Development**: Godot/GDScript, Game Maker/GML, Unity, OpenGL/GLSL, SDL/PyGame/LÖVE, Processing, SuperCollider, ChucK
-* **Web Development**: JavaScript/jQuery/AJAX, TypeScript, Node, CoffeeScript, PHP/Laravel, ASP.NET/Blazor, WASM, Ruby on Rails, Flask/Django/FastAPI, Apache, Nginx, Angular, React, WordPress
+* **Web Development**: JavaScript/jQuery/AJAX, TypeScript, Node, CoffeeScript, PHP/Laravel, ASP.NET/Razor/Blazor, WASM, Ruby on Rails, Flask/Django/FastAPI, Apache, Nginx, Angular, React, WordPress
 * **App Development**: Xamarin, MAUI, Flutter, Flet
 * **Software Engineering/DevOps**: Linux, Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Selenium, Jira, AWS, Google Cloud, Slack, Trello, DigitalOcean, Azure, Gradle, Maven
 
