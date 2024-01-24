@@ -25,8 +25,8 @@ Here are all the various tools and programming languages I have used in my perso
 * **Database and Query Systems**: MySQL/MariaDB, PostgreSQL, Redis, MongoDB, SQLite, Neo4j, Firebase, Spark, Hadoop, Cassandra, JSON, REST/Postman/Insomnia, GraphQL
 * **Game Development**: Godot/GDScript, Game Maker/GML, Unity, OpenGL/GLSL, SDL/PyGame/LÖVE, Processing, SuperCollider, ChucK
 * **Web Development**: JavaScript/jQuery/AJAX, TypeScript, Node, CoffeeScript, PHP/Laravel, ASP.NET/Razor/Blazor, WASM, Ruby on Rails, Flask/Django/FastAPI, Apache, Nginx, Angular, React, WordPress
-* **App Development**: Xamarin, MAUI, Flutter, Flet
-* **Software Engineering/DevOps**: Linux, Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Selenium, Jira, AWS, Google Cloud, Slack, Trello, DigitalOcean, Azure, Gradle, Maven
+* **App Development**: Xamarin, MAUI, Flutter, Flet, Android Studio
+* **Software Engineering/DevOps**: Linux, Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Ansible, Selenium, Jira, AWS, Google Cloud, Slack, Trello, DigitalOcean, Azure, Gradle, Maven
 
 I've also contributed to the upcoming [Carbon programming language](https://github.com/carbon-language/carbon-lang/commits?author=danielathome19)!
 
