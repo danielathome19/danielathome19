@@ -24,7 +24,7 @@ Here are all the various tools and programming languages I have used in my perso
 * **Software Suites**: Adobe CC, Microsoft Office (including Power BI), JetBrains, Visual Studio/VS Code
 * **Markup/Design**: LaTeX, Markdown/R Markdown, HTML/XML/XAML, CSS/SCSS/Bootstrap/Tailwind, UML, YAML, Figma
 * **Prototyping**: Python, Lua, Ruby, Bash, PowerShell/Batch, Elixir, Perl/Raku, OCaml, Nim, Crystal, Zig, Haxe, Boo, Tcl, Wren, Mojo
-* **Scientific Computing**: R, Julia, Jupyter, MATLAB/Octave, Fortran, GAMS, Nextflow, Watson Studio, SPSS, SageMaker, Zeppelin, WandB, Deepnote
+* **Scientific Computing**: R, Julia, Jupyter, MATLAB/Octave, Fortran, GAMS, Nextflow, Watson Studio, SPSS, Colab, Kaggle, SageMaker, Zeppelin, WandB, Deepnote
 * **.NET**: C#, F#, Visual basic/VBA, Q#, ML.NET, LINQ, WFA/WFP/Blend
 * **General Purpose**: Java, Scala, Kotlin, Go, Rust, D, Common Lisp/Racket/Hy, Groovy, Clojure, Swift, Dart, V, Vala
 * **Low-Level**: C, C++, Arduino, Assembly (x86/64, MIPS, NASM, FASM), Verilog/VHDL
