@@ -2,7 +2,7 @@ Hi 👋 My name is Daniel Szelogowski
 ==============================================================================================================================
 I teach computer science and choir currently at the high school level (along with some online college-level classes and private music lessons) and conduct research primarily in the fields of music, signal processing, machine learning/deep learning, education, and theoretical computer science.
 
-🎓 My education:
+### 🎓 My education
 * 🤖 **Ph.D. Artificial Intelligence - Capitol Technology University (2022-April 2024)**
 * 🖥️ **M.S. Computer Science - UW-Whitewater (2020-2022)**
 * 🧬 **G.C. Applied Bioinformatics - UW-Green Bay (2022-2023)**
@@ -18,7 +18,7 @@ Find out more about me on [![my homepage](https://badgen.net/badge/color/My%20Ho
 
 
 
-## Skills and Technologies
+## ⚙️ Skills and Technologies
 Here are all the various tools and programming languages I have used in my personal work over the last 15+ years.
 
 * **Software Suites**: Adobe CC, Microsoft Office (including Power BI), JetBrains, Visual Studio/VS Code
@@ -35,6 +35,8 @@ Here are all the various tools and programming languages I have used in my perso
 * **Software Engineering/DevOps**: Linux, Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Ansible, Selenium, Jira, AWS, Google Cloud, Slack, Trello, DigitalOcean, Azure, Gradle, Maven
 
 I've also contributed to the upcoming [Carbon programming language](https://github.com/carbon-language/carbon-lang/commits?author=danielathome19)!
+
+<hr/>
 
 <div style="margin:0 auto;text-align;center;" align="center">
 <div id="toprow">
