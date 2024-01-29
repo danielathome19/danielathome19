@@ -33,10 +33,11 @@ Here are all the various tools and programming languages I have used in my perso
 I've also contributed to the upcoming [Carbon programming language](https://github.com/carbon-language/carbon-lang/commits?author=danielathome19)!
 
 <div style="margin:0 auto;text-align;center;" align="center">
+<div id="toprow">
 <a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
   <!--<img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true" />-->
 
-  <picture style="height:215px !important;">
+  <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&theme=dark&custom_title=GitHub%20Stats"
       media="(prefers-color-scheme: dark)"
@@ -45,10 +46,11 @@ I've also contributed to the upcoming [Carbon programming language](https://gith
       srcset="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&custom_title=GitHub%20Stats"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img id="gitstat" style="margin: 10px; max-width: 95%; height:215px !important;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&custom_title=GitHub%20Stats" />
+    <img id="gitstat" height=200 style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&custom_title=GitHub%20Stats" />
   </picture>
 
 </a>
+<span>&emsp;&emsp;&emsp;</span>
 <a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
 <!--   <img id="gitlang" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact" /> -->
   <picture>
@@ -60,37 +62,10 @@ I've also contributed to the upcoming [Carbon programming language](https://gith
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img id="gitlang" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact" />
+    <img id="gitlang" height=200 style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielathome19&langs_count=10&layout=compact" />
   </picture>
 </a>
 </div>
-<!--<a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielathome19&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielathome19&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img id="gitlang" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielathome19&layout=compact" />
-  </picture>
-</a>
-<br/><br/>
-<a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
-  <picture>
-      <source 
-        srcset="https://github-profile-trophy.vercel.app/?username=danielathome19&row=2&column=-1&theme=alduin"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-profile-trophy.vercel.app/?username=danielathome19&row=2&column=-1&no-bg=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img id="gitlang" style="margin: 10px; max-width: 95%;" align="center" src="https://github-profile-trophy.vercel.app/?username=danielathome19&row=2&column=-1&no-bg=true" />
-    </picture>
-</a>-->
 
 <br/><br/>
 <a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
@@ -103,9 +78,10 @@ I've also contributed to the upcoming [Carbon programming language](https://gith
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19&theme=github-compact&color=2F80ED&area=true&custom_title=Contribution%20Graph"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img id="gitlang" style="margin: 10px; max-width: 100%;" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19&theme=github-compact&color=2F80ED&area=true&custom_title=Contribution%20Graph" />
+    <img id="gitlang" height=300 style="margin: 10px; max-width: 100%;" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=danielathome19&theme=github-compact&color=2F80ED&area=true&custom_title=Contribution%20Graph" />
   </picture>
 </a>
+</div>
 
 
 
