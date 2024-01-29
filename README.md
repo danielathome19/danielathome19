@@ -36,7 +36,7 @@ I've also contributed to the upcoming [Carbon programming language](https://gith
 <a href="https://github.com/danielathome19" style="color: rgba(0, 0, 0, 0); text-decoration: none;">
   <!--<img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true" />-->
 
-  <picture>
+  <picture style="height:215px !important;">
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&theme=dark&custom_title=GitHub%20Stats"
       media="(prefers-color-scheme: dark)"
@@ -45,7 +45,7 @@ I've also contributed to the upcoming [Carbon programming language](https://gith
       srcset="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&custom_title=GitHub%20Stats"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img id="gitstat" style="margin: 10px; max-width: 95%;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&custom_title=GitHub%20Stats" />
+    <img id="gitstat" style="margin: 10px; max-width: 95%; height:215px !important;" align="center" src="https://github-readme-stats.vercel.app/api?username=danielathome19&show_icons=true&count_private=true&include_all_commits&show_owner=true&custom_title=GitHub%20Stats" />
   </picture>
 
 </a>
