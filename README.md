@@ -11,8 +11,12 @@ I teach computer science and choir currently at the high school level (along wit
   * 🤵 **Conducting Undergraduate Certificate [Music]**
 * 🏫 **A.A.S. General Studies - UW-Milwaukee (2021)**
 
-Find out more about me on [my homepage](http://danielszelogowski.com/) or [LinkedIn](https://www.linkedin.com/in/danielszelogowski/).
-<br/>Also, check out my research on [ORCID](https://orcid.org/0000-0002-0350-5771) or [ResearchGate](https://www.researchgate.net/profile/Daniel-Szelogowski)!
+Find out more about me on [![my homepage](https://badgen.net/badge/color/My%20Homepage/512da8?label=)](http://danielszelogowski.com/) or [![LinkedIn](https://badgen.net/badge/color/Linkedin/0077B5?label=)](https://www.linkedin.com/in/danielszelogowski/).
+<br/>Also, check out my research on 
+[![ORCID](https://badgen.net/badge/color/ORCiD/a6ce39?label=)](https://orcid.org/0000-0002-0350-5771) or 
+[![ResearchGate](https://badgen.net/badge/color/ResearchGate/00d0af?label=)](https://www.researchgate.net/profile/Daniel-Szelogowski)!
+
+
 
 ## Skills and Technologies
 Here are all the various tools and programming languages I have used in my personal work over the last 15+ years.
