@@ -34,9 +34,13 @@ Here are all the various tools and programming languages I have used in my perso
 * **App Development**: Xamarin, MAUI, Flutter, Flet, Android Studio
 * **Software Engineering/DevOps**: Linux, Docker, GitHub Actions, Kubernetes, Terraform, Jenkins, Ansible, Selenium, Jira, AWS, Google Cloud, Slack, Trello, DigitalOcean, Azure, Gradle, Maven
 
-I've also contributed to the upcoming [Carbon programming language](https://github.com/carbon-language/carbon-lang/commits?author=danielathome19)!
+I've also contributed to the upcoming programming language [![Carbon](https://badgen.net/badge/color/Carbon/000000?label=)](https://github.com/carbon-language/carbon-lang/commits?author=danielathome19)!
 
 <hr/>
+
+
+
+
 
 <div style="margin:0 auto;text-align;center;" align="center">
 <div id="toprow">
