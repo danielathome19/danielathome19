@@ -2,7 +2,7 @@ Hi 👋 My name is Daniel Szelogowski
 ==============================================================================================================================
 I teach computer science and choir currently at the high school level (along with some online college-level classes and private music lessons) and conduct research primarily in the fields of music, signal processing, machine learning/deep learning, education, and theoretical computer science.
 
-### 🎓 My education
+### 🎓 My Education
 * 🤖 **Ph.D. Artificial Intelligence - Capitol Technology University (2022-April 2024)**
 * 🖥️ **M.S. Computer Science - UW-Whitewater (2020-2022)**
 * 🧬 **G.C. Applied Bioinformatics - UW-Green Bay (2022-2023)**
