@@ -1,4 +1,4 @@
-Hi 👋 My name is Daniel Szelogowski
+Hi 👋 I'm Dr. Daniel Szelogowski
 ==============================================================================================================================
 I teach computer science and choir currently at the high school level (along with some online college-level classes and private music lessons) and conduct research primarily in the fields of music, signal processing, machine learning/deep learning, education, and theoretical computer science.
 
