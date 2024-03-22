@@ -1,5 +1,5 @@
 <div align=center>
-<h1>Hi 👋 I'm Dr. Daniel Szelogowski</h1>
+<h1 style="margin-top: -24px !important;">Hi 👋 I'm Dr. Daniel Szelogowski</h1>
 <!--==============================================================================================================================-->
 </div>
 
