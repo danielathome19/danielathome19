@@ -10,7 +10,7 @@ I teach computer science and choir currently at the high school level (along wit
 * 🎼 **B.M. Music Education - Choral Emphasis and Computer Science - UW-Whitewater (2017-2021)**
   * 🕸️ **Web Development and Administration Minor**
   * 🤵 **Conducting Undergraduate Certificate [Music]**
-* 🏫 **A.A.S. General Studies - UW-Milwaukee (2021)**
+* 🏫 **A.A.S. Arts and Sciences [General Studies] - UW-Milwaukee (2021)**
 
 Find out more about me on [![my homepage](https://badgen.net/badge/color/My%20Homepage/512da8?label=)](http://danielszelogowski.com/) or [![LinkedIn](https://badgen.net/badge/color/Linkedin/0077B5?label=)](https://www.linkedin.com/in/danielszelogowski/).
 <br/>Also, check out my research on 
