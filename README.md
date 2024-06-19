@@ -23,7 +23,7 @@ Find out more about me on [![my homepage](https://badgen.net/badge/color/My%20Ho
 Here are all the various tools and programming languages I have used in my personal work over the last 15+ years.
 
 * **Software Suites**: Adobe CC, Microsoft Office (including Power BI), JetBrains, Visual Studio/VS Code
-* **Markup/Design**: LaTeX, Markdown/R Markdown, HTML/XML/XAML, CSS/SCSS/Bootstrap/Tailwind, UML, YAML, AImarkdown, Figma/Canva
+* **Markup/Design**: LaTeX, Markdown/R Markdown, HTML/XML/XAML, CSS/SCSS/Bootstrap/Tailwind, UML, YAML, Quarto, AImarkdown, Figma/Canva
 * **Prototyping**: Python, Lua, Ruby, Bash, PowerShell/Batch, Elixir, Perl/Raku, OCaml, Nim, Crystal, Zig, Haxe, Boo, Tcl, Wren, Mojo
 * **Scientific Computing**: R, Julia, Jupyter, MATLAB/Octave, Fortran, GAMS, Nextflow, Watson Studio, SPSS, Colab, Kaggle, SageMaker, Zeppelin, WandB, Deepnote
 * **.NET**: C#, F#, Visual basic/VBA, Q#, ML.NET, LINQ, WFA/WFP/Blend
