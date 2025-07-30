@@ -1,7 +1,7 @@
 Hi 👋 I'm Dr. Daniel Szelogowski
 ==============================================================================================================================
 
-I teach computer science and choir currently at the high school level (along with some online college-level classes and private music lessons) and conduct research primarily in the fields of music, signal processing, machine learning/deep learning, organoid intelligence/computational neuroscience, data science, education, and theoretical computer science.
+I am a professor of computer science and choral music (previously teaching primarily high school-level classes and private music lessons) and conduct research primarily in the fields of music, signal processing, machine learning/deep learning, organoid intelligence/computational neuroscience, data science, education, and theoretical computer science.
 
 ### 🎓 My Education
 * 🤖 **Ph.D. Artificial Intelligence - Capitol Technology University (2022-2024)**
